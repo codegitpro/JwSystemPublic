@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
-## 基于Java+Springboot+Vue的教务管理系统(源代码+数据库)115
+## 基于Java+Springboot+Vue的教务管理系统(源代码+数据库+开题+ppt)115
 
 ## 一、系统介绍
 本项目前后端分离，本系统分为管理员、教务人员、教师、学生四种角色
